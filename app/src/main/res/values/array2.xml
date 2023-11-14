@@ -2,11 +2,8 @@
 <resources>
     <string-array
         name="array2">
-        <item
-            >Ventas</item>
-        <item
-            >Informatica</item>
-        <item
-            >jardineria</item>
+        <item>Ventas</item>
+        <item>Informatica</item>
+        <item>jardineria</item>
     </string-array>
 </resources>
